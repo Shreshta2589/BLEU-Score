@@ -1,4 +1,4 @@
-# Bleu-Score
+# BLEU-Score
 
 Calculates the BLEU evaluation metric
 
